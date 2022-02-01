@@ -1,0 +1,162 @@
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+html{
+  height: 100%;
+}
+body {
+  height: 100%;
+  background: url(https://media.discordapp.net/attachments/528573206056009738/747208555890737202/fond.png) no-repeat center fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+}
+
+.logo-big{
+  max-width: 80%;
+}
+
+.search{
+  max-width: 500px;
+}
+
+.searchResult{
+  max-width: 500px;
+  background-color: #343a40;
+}
+.searchResult div{
+  text-align: left;
+  border-bottom: solid 1px white;
+  color: white;
+}
+.searchResult div img{
+  max-width: 64px;
+  border-radius: 5px;
+  margin: 3px;
+}
+
+.item-content {
+  min-height: 100%;
+  max-width: 800px;
+  background-image:url('img/backpaper.png');
+  background-repeat:repeat-y;
+  background-size: contain;
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+}
+
+#item-img {
+  border-radius: 10px;
+  width: 100px;
+}
+
+#item-name {
+  font-family: 'UnifrakturCook', cursive;
+  font-size: 24pt;
+}
+
+.item-prices{
+  display: inline-block;
+  width: 90%;
+  text-align: left;
+  margin-left: 15px;
+}
+
+.item-prices-cities-name{
+  color: black;
+  width: 100%;
+  cursor: pointer;
+  font-size: 16pt;
+  line-height: 30px;
+}
+
+.item-prices-cities{
+  height: 28px;
+  overflow: hidden;
+}
+
+@media (max-width: 480px) {
+  .item-prices-cities-content {
+    overflow-x: scroll;
+  }
+}
+
+.item-prices-cities-content table {
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 5px;
+}
+
+.item-prices-cities-content table tr td{
+  padding: 0px 12px 0px 12px;
+}
+
+.last-u{
+  font-size: 10pt;
+  line-height: 10pt;
+}
+
+.loader {
+  border: 5px solid #f3f3f3; /* Light grey */
+  border-top: 5px solid #e74c3c; /* Blue */
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin .8s linear infinite;
+  display: inline-block;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.walper{
+  display: flex;
+  text-align: center;
+  align-content: center;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.select-lang{
+  text-align: left;
+  padding: 10px;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #18191c;
+  max-width: 400px;
+  color: #dcddde;
+}
+
+.select-lang img{
+  width: 50px;
+  margin: 5px;
+}
+
+.site-desc{
+  text-align: center;
+  margin: 15px 5px 5px 5px;
+  padding: 5px 15px 5px 15px;
+  background-color: #18191c;
+  color: #dcddde;
+  max-width: 600px;
+  border-radius: 10px;
+}
+
+.how {
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: 900;
+	letter-spacing: .25em;
+	text-transform: uppercase;
+	vertical-align: middle;
+}

@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^item/([A-Z0-9_@]+)/?$ index.php?page=item&item=$1

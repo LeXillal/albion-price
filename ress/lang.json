@@ -1,0 +1,29 @@
+{
+  "EN-US":{
+    "SiteDesc" : "Welcome to \"Albion Price\" a simple site which gathers the prices of all the items of the game in all the markets of all the towns of Albion. <br>With this information you can make a lot of money buying in one city and selling in the other.<br>Good game"
+  },
+  "DE-DE":{
+    "SiteDesc" : "Willkommen bei \"Albion Price\", einer einfachen Website, auf der die Preise aller Spielgegenstände auf allen Märkten aller Städte von Albion erfasst werden.<br>Mit diesen Informationen können Sie viel Geld verdienen, indem Sie in einer Stadt kaufen und in der anderen verkaufen.<br>Gute Partie"
+  },
+  "FR-FR":{
+    "SiteDesc" : "Bienvenue sur \"Albion Price\" un site simple qui regroupe les prix de tous les items du jeu dans tous les markets de toutes les villes d'Albion.<br>Grâce à ces informations vous pouvez faire énormément d'argent en achetant dans une ville et revendant dans l'autre.<br>Bon jeu"
+  },
+  "RU-RU":{
+    "SiteDesc" : "Добро пожаловать на \"Albion Price\" - простой сайт, на котором собраны цены на все предметы в игре на всех рынках всех городов Альбиона.<br>С помощью этой информации вы можете заработать много денег, покупая в одном городе и продавая в другом.<br>Хорошая игра"
+  },
+  "PL-PL":{
+    "SiteDesc" : "Witamy w „Albion Price”, prostej witrynie, która gromadzi ceny wszystkich elementów gry na wszystkich rynkach wszystkich miast Albionu.<br>Dzięki tym informacjom możesz dużo zarobić, kupując w jednym mieście i sprzedając w drugim.<br>Dobra gra"
+  },
+  "ES-ES":{
+    "SiteDesc" : "Bienvenido a \"Albion Price\", un sitio sencillo que recopila los precios de todos los artículos del juego en todos los mercados de todas las ciudades de Albion.<br>Con esta información puedes ganar mucho dinero comprando en una ciudad y vendiendo en la otra.<br>Buen juego"
+  },
+  "PT-BR":{
+    "SiteDesc" : "Bem-vindo a \"Albion Price\" um site simples que reúne os preços de todos os itens do jogo em todos os mercados de todas as cidades de Albion.<br>Com essas informações você pode ganhar muito dinheiro comprando em uma cidade e vendendo na outra.<br>Bom jogo"
+  },
+  "ZH-CN":{
+    "SiteDesc" : "欢迎来到“阿尔比恩价格”这个简单的网站，该网站收集了阿尔比恩所有城镇的所有市场中所有游戏项目的价格。<br>有了这些信息，您可以在一个城市购买商品并在另一城市出售商品，赚很多钱。<br>好游戏"
+  },
+  "KO-KR":{
+    "SiteDesc" : "Albion의 모든 마을의 모든 시장에서 게임의 모든 항목의 가격을 수집하는 간단한 사이트 \"Albion Price\"에 오신 것을 환영합니다.<br>이 정보를 통해 한 도시에서 구매하고 다른 도시에서 판매하는 많은 돈을 벌 수 있습니다.<br>좋은 경기"
+  }
+}

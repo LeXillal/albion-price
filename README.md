@@ -8,5 +8,5 @@ The home page allows you to choose a language with cookie use, but also to searc
 ## Item Page
 This page displays the item's image, description and a list of prices in each city on the Albion map.
 
-### And design ?
+## And design ?
 You can see what the site looks like in the Views folder. It's a minimalist style but it does the trick :)
